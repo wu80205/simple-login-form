@@ -1,4 +1,4 @@
-This is a simple login for created using HTML and Javascript.
+This is a simple login form created using HTML and Javascript.
 
 To login:
 Username: user
